@@ -25,7 +25,7 @@ Bienvenido a este conjunto de ejercicios diseñados para ayudarte a dar tus prim
 - Carrito de la compra: Simula un DAO, podiendo añadir productos, mostrarlos y borrarlos. Los productos estan guardados en un ENUM.
 - Coche: Tengo una clase neumatico con algunos metodos para ello, como pinchar, pirdePresion... Aparte una clase Coche que consta de 4 neumaticos y algunos metodos como recorrerCoche, repostar... Y un Main donde correr pruebas.
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 Lenguaje: Kotlin
 
 IDE: IntelliJ
